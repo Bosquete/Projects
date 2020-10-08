@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(205, 171, 209);
+    background-image: url("C:/Users/Ramon/Desktop/proyectos-web/gotaro/01chat.jpg");
+    
+    
+}
+
+#home {
+    color: rgb(129, 62, 129);
+}
+.etiqueta {
+    color:  rgb(129, 62, 93);
+}
